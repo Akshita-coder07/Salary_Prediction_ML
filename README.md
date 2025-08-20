@@ -1,3 +1,2 @@
 # Salary_Prediction_ML
-
 This project is a Salary Prediction System built using Python and Machine Learning. It uses Numpy, Pandas, Matplotlib, Seaborn for data preprocessing and visualization, along with scikit-learn for model training and testing. The dataset is cleaned and preprocessed before training, and the model predicts salaries based on features like job type, degree, gender, experience, and location. A simple Tkinter GUI is provided to make predictions user-friendly, where users can input values and get instant salary predictions.
